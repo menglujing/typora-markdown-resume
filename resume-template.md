@@ -1,6 +1,6 @@
 ## 个人信息
 
-- 孟路景/男/1996/湖北/英语6级
+- 孟路景/女/1996/湖北/英语6级
 - 手机：11164201041，邮箱：guidege666@163.com
 - 技术博客：[https://snailclimb.gitee.io/javaguide/#/](https://snailclimb.gitee.io/javaguide/#/)（没有东西的话就不要放上来）
 - Github：[https://github.com/Snailclimb](https://github.com/Snailclimb) （没有东西的话就不要放上来）
